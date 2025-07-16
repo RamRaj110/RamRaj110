@@ -20,7 +20,7 @@ I'm a passionate developer from India with a background in **Electronics & Commu
 
 ## 📈 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical)
 
