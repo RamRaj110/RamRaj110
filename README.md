@@ -27,7 +27,6 @@ I'm a passionate developer from India with a background in **Electronics & Commu
 ---
 
 ## 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-kumar6)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://pawan-weld.vercel.app/)
-![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)(mailto:pawansham578@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:pawansham578@gmail.com)
