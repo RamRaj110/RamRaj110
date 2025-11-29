@@ -24,8 +24,6 @@
 
 ## 🛠️ Technologies & Tools
 
-Here is the tech stack I use to build scalable applications:
-
 **The MERN Stack**
 <br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
@@ -49,10 +47,8 @@ Here is the tech stack I use to build scalable applications:
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical&hide_border=true" alt="Pawan's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical)
 
 ---
