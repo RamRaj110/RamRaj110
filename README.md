@@ -47,8 +47,9 @@
 
 ## 📈 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical&cache_seconds=86400)
+
 
 ---
