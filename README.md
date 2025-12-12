@@ -50,15 +50,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical&cache_seconds=86400" alt="Pawan's GitHub stats" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamRaj110&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=RamRaj110&theme=radical" />
     </td>
   </tr>
 </table>
+
 
 ---
