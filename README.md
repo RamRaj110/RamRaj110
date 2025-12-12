@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Pawan!</h1>
+# <h1 align="center">👋 Hi, I'm Pawan!</h1>
 
 <h3 align="center">👨‍💻 Software Engineer at YMGrad | 🚀 MERN Stack Developer</h3>
 
@@ -47,9 +47,18 @@
 
 ## 📈 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical&cache_seconds=86400)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical&cache_seconds=86400" alt="Pawan's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamRaj110&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
