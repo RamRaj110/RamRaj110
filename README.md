@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical" />
-
 <img
-  src="https://streak-stats.demolab.com?user=RamRaj110&theme=radical&hide_border=true"
+  src="https://streak-stats.demolab.com?user=RamRaj110&theme=radical&hide_border=true&background=000000"
 />
+
 
