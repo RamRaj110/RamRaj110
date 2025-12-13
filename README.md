@@ -45,24 +45,10 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-mu-olive.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=RamRaj110&theme=radical" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical" />
 
-## 📊 Most Used Languages
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamRaj110&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical" />
-
----
