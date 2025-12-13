@@ -61,5 +61,8 @@
   </tr>
 </table>
 
+## 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical" />
 
 ---
