@@ -47,12 +47,7 @@
 
 
 ## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RamRaj110&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical)
-
-
-
+![GitHub](https://img.shields.io/badge/GitHub-RamRaj110-black)
+![Followers](https://img.shields.io/github/followers/RamRaj110?style=social)
 
 
