@@ -48,7 +48,10 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=radical" />
+![GitHub Streak](https://streak-stats.demolab.com?user=RamRaj110&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=radical)
+
 
 
 
