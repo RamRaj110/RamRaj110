@@ -72,19 +72,27 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamRaj110/RamRaj110/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamRaj110/RamRaj110/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RamRaj110/RamRaj110/output/pacman-contribution-graph.svg">
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamRaj110&theme=tokyonight)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamRaj110&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,ts,tailwind,git,github" />
+</p>
+
 
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/pawan-kumar6" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/PawanRajaryan2" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+   <a href="mailto:pawantechdev@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
