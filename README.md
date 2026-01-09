@@ -73,12 +73,11 @@
 ###
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamRaj110&theme=tokyonight)
+
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamRaj110&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamRaj110&layout=compact&theme=tokyonight)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,ts,tailwind,git,github" />
-</p>
+
 
 
 ###
