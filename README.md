@@ -72,11 +72,9 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamRaj110&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamRaj110&theme=tokyonight)
-
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamRaj110&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamRaj110&theme=react-dark)
 
 
 
