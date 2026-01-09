@@ -76,6 +76,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamRaj110&theme=react-dark)
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamRaj110&theme=tokyonight)
+
+
 
 
 ###
