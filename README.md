@@ -68,21 +68,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamRaj110&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamRaj110&theme=react-dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamRaj110&theme=tokyonight)
-
-
-
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/pawan-kumar6" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
